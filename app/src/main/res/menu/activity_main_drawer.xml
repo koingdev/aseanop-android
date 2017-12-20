@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bachelor"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Bachelor" />
+        <item
+            android:id="@+id/nav_master"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Master" />
+        <item
+            android:id="@+id/nav_phd"
+            android:icon="@drawable/scholarship48dp"
+            android:title="PhD" />
+        <item
+            android:id="@+id/nav_intern"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Internships" />
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Trainings" />
+        <item
+            android:id="@+id/nav_online_course"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Online Courses" />
+        <item
+            android:id="@+id/nav_conference"
+            android:icon="@drawable/scholarship48dp"
+            android:title="Conferences" />
+        <item
+            android:id="@+id/nav_myfavor"
+            android:icon="@drawable/ic_favorite_white_48dp"
+            android:title="My Favorites"/>
+        <!--<item-->
+            <!--android:id="@+id/nav_about"-->
+            <!--android:icon="@drawable/ic_favorite_white_48dp"-->
+            <!--android:title="About"/>-->
+
+    </group>
+
+</menu>

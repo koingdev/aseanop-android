@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#51384B</color>
+    <color name="colorPrimaryDark">#412C3C</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="recyclerBG">#E4E4E4</color>
+    <color name="rowBG">#FAFAFA</color>
+    <color name="menuText">#BAA4B4</color>
+    <color name="blueTransparent80">#CC3F51B5</color>
+    <color name="textColorPrimary">#2A2A2A</color>
+    <color name="textColorSecondary">#acaaaa</color>
+    <color name="transparent">#00000000</color>
+</resources>
